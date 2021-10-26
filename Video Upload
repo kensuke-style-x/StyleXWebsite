@@ -1,0 +1,4 @@
+      <video controls width="700" height="350" autoplay loop muted>
+        <source src="business images/StyleBook ProtoType Business Image .mov" type = "video/mov">
+          <source src="business images/StyleBook ProtoType Business Image .mp4" type = "video/mp4">
+      </video>
